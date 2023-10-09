@@ -41,3 +41,10 @@ function diviTwoNumber(a,b){
     return c;
 }
 console.log(diviTwoNumber(50,2));
+
+
+// convert a string into uppercase
+
+var name = "My name is Juttirmoy datta Jiku"
+
+console.log(name.toUpperCase())
